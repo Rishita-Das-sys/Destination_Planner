@@ -1,0 +1,68 @@
+Name,Category,Latitude,Longitude,Description,Top Activities,Transport Mode,Total Distance (km),Estimated Travel Time (hrs),ID,Entry Fee (INR),Timing,Ideal Duration,Preferred Travel Type,Budget (INR),Trip Duration (Days)
+Geological Survey Of India (GSI),monument,22.5844803,88.4241482,Description for Geological Survey Of India (GSI),Walking,Metro,16.4,1.4,1,50,10am - 6pm,1-2 hrs,Spiritual,20812,5
+Marble Palace,museum,22.5821228,88.3601707,Description for Marble Palace,Sightseeing,Metro,6.0,1.3,2,100,24/7,2-3 hrs,Cultural,11974,6
+Unknown,monument,22.6021879,88.3680537,Description for Unknown,Photography,Taxi,14.3,1.5,3,100,10am - 6pm,1-2 hrs,Adventure,5583,1
+Ghosh house,monument,22.6030933,88.3677668,Description for Ghosh house,Cultural Experience,Uber/Ola,29.9,1.3,4,0,10am - 6pm,2-3 hrs,Cultural,10448,1
+National Council of Science Museums,museum,22.5701279,88.4283432,Description for National Council of Science Museums,Walking,Metro,27.7,1.3,5,0,24/7,1-2 hrs,Spiritual,11948,3
+Paribesh Bhavan,museum,22.5619295,88.4090661,Description for Paribesh Bhavan,Photography,Metro,10.5,1.7,6,50,10am - 6pm,3-4 hrs,Relaxation,7168,3
+Indira Ghandi Statue,monument,22.546181,88.3475168,Description for Indira Ghandi Statue,Sightseeing,Bus,27.0,1.0,7,100,24/7,2-3 hrs,Adventure,7269,4
+Bondhu Dal Club,park,22.5022766,88.3139358,Description for Bondhu Dal Club,Sightseeing,Uber/Ola,14.4,1.2,8,0,10am - 6pm,1-2 hrs,Relaxation,23013,5
+Behala Club Grounds,park,22.5053053,88.3143773,Description for Behala Club Grounds,Walking,Uber/Ola,15.0,0.8,9,0,9am - 5pm,1-2 hrs,Spiritual,12379,2
+Bhutnath Park,park,22.5030622,88.3111851,Description for Bhutnath Park,Walking,Metro,18.5,0.6,10,50,24/7,2-3 hrs,Cultural,18073,3
+Sarat Sadan,Other,22.4945394,88.3159769,Description for Sarat Sadan,Walking,Uber/Ola,11.7,0.6,11,20,10am - 6pm,2-3 hrs,Adventure,7769,5
+Lichubagan Children's Park,park,22.6245129,88.4056926,Description for Lichubagan Children's Park,Walking,Metro,12.7,1.3,12,50,10am - 6pm,2-3 hrs,Cultural,5768,6
+MUNICIPALITY,monument,22.4990753,88.2276998,Description for MUNICIPALITY,Photography,Taxi,28.3,1.2,13,20,24/7,2-3 hrs,Cultural,11566,7
+Chirantani math,park,22.5058254,88.3365103,Description for Chirantani math,Photography,Metro,25.4,0.6,14,0,9am - 5pm,1-2 hrs,Spiritual,7513,6
+Unknown,park,22.5936441,88.4015713,Description for Unknown,Photography,Uber/Ola,8.0,1.2,15,50,24/7,1-2 hrs,Adventure,19704,3
+Unknown,park,22.5937391,88.4014808,Description for Unknown,Cultural Experience,Taxi,18.0,1.3,16,0,24/7,2-3 hrs,Cultural,16001,4
+Kids Park,park,22.5919082,88.4031339,Description for Kids Park,Walking,Uber/Ola,14.1,1.3,17,50,24/7,2-3 hrs,Spiritual,14428,7
+Centre for International Modern Art,museum,22.5315809,88.3646939,Description for Centre for International Modern Art,Photography,Metro,24.9,1.1,18,100,9am - 5pm,3-4 hrs,Spiritual,14246,4
+Ahuja Museum for Arts,museum,22.5380906,88.3492339,Description for Ahuja Museum for Arts,Photography,Taxi,20.1,2.0,19,100,10am - 6pm,2-3 hrs,Relaxation,24035,7
+Banking Museum,museum,22.5696674,88.3430275,Description for Banking Museum,Cultural Experience,Uber/Ola,6.8,0.9,20,0,10am - 6pm,1-2 hrs,Adventure,7348,3
+Uttarpalli Playground,park,22.6094118,88.38332,Description for Uttarpalli Playground,Cultural Experience,Metro,10.9,0.5,21,100,24/7,1-2 hrs,Spiritual,20899,4
+Town Hall Museum,museum,22.5680196,88.3449648,Description for Town Hall Museum,Cultural Experience,Metro,15.6,0.8,22,20,24/7,2-3 hrs,Cultural,10534,6
+Shibtala Math,park,22.5450285,88.3780465,Description for Shibtala Math,Walking,Metro,10.0,1.7,23,100,9am - 5pm,2-3 hrs,Relaxation,9644,1
+Satyajit Ray Auditorium,Other,22.5474462,88.3516232,Description for Satyajit Ray Auditorium,Sightseeing,Taxi,7.5,0.6,24,20,24/7,3-4 hrs,Relaxation,22491,4
+KALABAGAN PARK,park,22.4996494,88.3510628,park for children,Sightseeing,Taxi,9.6,2.0,25,100,10am - 6pm,2-3 hrs,Cultural,15579,2
+Guru Govindan Kutty Uddyan,park,22.4987159,88.3523174,park for children,Sightseeing,Taxi,25.2,1.6,26,20,24/7,2-3 hrs,Spiritual,20125,2
+Chatra Sangha Cricket Academy,park,22.4644352,88.3713228,Description for Chatra Sangha Cricket Academy,Walking,Taxi,21.9,1.0,27,20,24/7,1-2 hrs,Adventure,17793,3
+Vivekananda Park Playground,park,22.4626905,88.3711413,Description for Vivekananda Park Playground,Sightseeing,Taxi,17.5,1.0,28,0,9am - 5pm,3-4 hrs,Adventure,11370,5
+Netaji Sishu Udyan,park,22.4670788,88.3713596,Description for Netaji Sishu Udyan,Walking,Bus,5.1,1.1,29,20,9am - 5pm,1-2 hrs,Cultural,11884,4
+Bidhan Park,park,22.469101,88.3695555,Description for Bidhan Park,Walking,Bus,11.4,1.5,30,50,9am - 5pm,1-2 hrs,Relaxation,10754,7
+Birsa Munda Triangular Park,park,22.5126932,88.3284039,Description for Birsa Munda Triangular Park,Cultural Experience,Bus,26.4,1.5,31,50,9am - 5pm,1-2 hrs,Cultural,13427,1
+Subhas Nagar Children' Park,park,22.6388694,88.4096159,Good place for children's. ,Walking,Metro,28.3,0.7,32,100,10am - 6pm,2-3 hrs,Adventure,20886,2
+Subhasnagar High school Children's park,park,22.6355474,88.409033,Description for Subhasnagar High school Children's park,Walking,Bus,9.0,0.6,33,20,10am - 6pm,1-2 hrs,Adventure,18192,6
+State Archeological Museum,museum,22.4993488,88.3180642,Description for State Archeological Museum,Sightseeing,Bus,25.4,0.6,34,50,9am - 5pm,2-3 hrs,Adventure,8646,7
+Datta Ancestral Home - Birthplace of Vivekananda,museum,22.5863421,88.3673317,Description for Datta Ancestral Home - Birthplace of Vivekananda,Cultural Experience,Uber/Ola,8.1,1.3,35,100,9am - 5pm,3-4 hrs,Cultural,18840,1
+Kolkata Police Museum,museum,22.5827227,88.3738362,Description for Kolkata Police Museum,Walking,Metro,9.5,1.3,36,50,24/7,3-4 hrs,Adventure,11919,1
+Jorasanko Thakur Bari,museum,22.5850026,88.3590491,Description for Jorasanko Thakur Bari,Walking,Bus,25.7,0.6,37,0,10am - 6pm,3-4 hrs,Adventure,21801,7
+Raja Rammohun Roy Memorial Museum,museum,22.5832127,88.3712475,Description for Raja Rammohun Roy Memorial Museum,Photography,Uber/Ola,27.8,1.2,38,50,10am - 6pm,2-3 hrs,Adventure,13151,1
+House of Pandit Ishwar Chandra Vidyasagar,museum,22.5817327,88.371842,Description for House of Pandit Ishwar Chandra Vidyasagar,Sightseeing,Bus,21.1,0.7,39,20,10am - 6pm,3-4 hrs,Adventure,18770,5
+Kolkata Police Museum,museum,22.554119,88.3556516,Description for Kolkata Police Museum,Photography,Bus,28.3,1.7,40,50,9am - 5pm,2-3 hrs,Adventure,21339,2
+maa agrhoremoni childern park,park,22.6813069,88.3658095,Description for maa agrhoremoni childern park,Sightseeing,Taxi,26.4,0.9,41,100,10am - 6pm,1-2 hrs,Relaxation,19920,3
+Vavekananda Shamity Play Ground,park,22.6826443,88.3665081,Description for Vavekananda Shamity Play Ground,Cultural Experience,Taxi,6.2,1.8,42,0,10am - 6pm,1-2 hrs,Adventure,6873,5
+vivikanada club,park,22.6834387,88.366779,Description for vivikanada club,Walking,Metro,25.6,1.3,43,50,24/7,2-3 hrs,Spiritual,14737,2
+Milani math,park,22.6705937,88.3608459,awesome place for playing,Cultural Experience,Taxi,28.1,0.8,44,50,10am - 6pm,2-3 hrs,Adventure,20309,3
+Millennium Park Gate 1,park,22.5718281,88.3440035,Description for Millennium Park Gate 1,Photography,Taxi,20.4,0.8,45,100,9am - 5pm,1-2 hrs,Cultural,12772,6
+Children's Park beside Sainik Sangha,park,22.5876585,88.2856173,Description for Children's Park beside Sainik Sangha,Photography,Metro,29.1,1.7,46,100,24/7,1-2 hrs,Spiritual,13377,7
+X MOTTORS,park,22.5917451,88.402647,Description for X MOTTORS,Sightseeing,Uber/Ola,20.3,1.5,47,0,24/7,2-3 hrs,Adventure,13608,5
+Deshbandhu park,park,22.6000099,88.3770699,Description for Deshbandhu park,Cultural Experience,Taxi,13.8,1.6,48,100,24/7,1-2 hrs,Relaxation,14964,2
+Emperor Edward VII Memorial Arch,monument,22.5428756,88.3421691,Description for Emperor Edward VII Memorial Arch,Cultural Experience,Metro,11.9,1.0,49,100,9am - 5pm,3-4 hrs,Adventure,23698,1
+Mahanayak Uttam Manch,Other,22.5223282,88.3487972,Description for Mahanayak Uttam Manch,Sightseeing,Metro,15.8,1.8,50,50,24/7,1-2 hrs,Adventure,9722,5
+Statue of Mahatma Gandhi,monument,22.5595772,88.3481985,Description for Statue of Mahatma Gandhi,Cultural Experience,Metro,21.9,1.9,51,20,10am - 6pm,3-4 hrs,Spiritual,12876,4
+Abanindranath Tagore's Baganbari,museum,22.6966439,88.359933,Description for Abanindranath Tagore's Baganbari,Walking,Taxi,23.2,1.8,52,20,9am - 5pm,2-3 hrs,Cultural,13932,4
+SUNFLOWER PARK,park,22.5777019,88.3778028,Description for SUNFLOWER PARK,Sightseeing,Bus,18.2,2.0,53,0,9am - 5pm,2-3 hrs,Spiritual,24110,6
+rabindra tirtha,park,22.5794165,88.4728785,Description for rabindra tirtha,Walking,Metro,5.0,0.6,54,20,24/7,2-3 hrs,Spiritual,13190,2
+Unknown,park,22.6262926,88.43144,Description for Unknown,Sightseeing,Uber/Ola,27.2,1.7,55,20,9am - 5pm,3-4 hrs,Spiritual,11321,1
+Mother's Wax Museum,museum,22.5994556,88.4722454,Description for Mother's Wax Museum,Sightseeing,Taxi,12.2,0.6,56,20,10am - 6pm,2-3 hrs,Cultural,8191,6
+Gyan Mancha,Other,22.5735617,88.4075987,Description for Gyan Mancha,Photography,Metro,11.0,0.5,57,20,9am - 5pm,2-3 hrs,Cultural,10022,5
+রবীন্দ্র সরোবর,park,22.5098737,88.3592364,Description for রবীন্দ্র সরোবর,Photography,Taxi,22.9,0.6,58,20,9am - 5pm,2-3 hrs,Adventure,9955,3
+Durga Museum (Maa Phire Elo),museum,22.5094196,88.359042,Description for Durga Museum (Maa Phire Elo),Photography,Taxi,12.7,1.7,59,50,9am - 5pm,1-2 hrs,Spiritual,13154,7
+Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র,museum,22.4989314,88.3463028,Description for Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র,Sightseeing,Taxi,27.4,1.8,60,20,24/7,3-4 hrs,Relaxation,22850,1
+Apur Sansar Park,park,22.5831514,88.4668956,Description for Apur Sansar Park,Cultural Experience,Taxi,22.6,0.5,61,20,24/7,1-2 hrs,Spiritual,22472,2
+Lebutala Children's Park,park,22.5658527,88.3657974,Description for Lebutala Children's Park,Walking,Metro,9.2,0.9,62,0,9am - 5pm,3-4 hrs,Adventure,19486,3
+Jatindas Statue,monument,22.6594247,88.391441,Description for Jatindas Statue,Photography,Taxi,17.6,0.9,63,0,9am - 5pm,1-2 hrs,Adventure,6303,7
+Panchavati Park,park,22.6560285,88.3573162,Description for Panchavati Park,Photography,Uber/Ola,23.5,0.9,64,50,24/7,1-2 hrs,Cultural,7100,1
+Samar Roy Choudhury Shisu Udyan,park,22.4848851,88.3148321,Description for Samar Roy Choudhury Shisu Udyan,Sightseeing,Metro,8.7,0.8,65,100,24/7,2-3 hrs,Cultural,19118,7
+Sayaribitan Park,park,22.4745042,88.3059641,Description for Sayaribitan Park,Photography,Bus,5.5,0.6,66,20,24/7,3-4 hrs,Adventure,7713,3
+Space Theatre,Other,22.5404381,88.3969042,Description for Space Theatre,Walking,Uber/Ola,17.1,1.5,67,100,10am - 6pm,2-3 hrs,Relaxation,23301,4
